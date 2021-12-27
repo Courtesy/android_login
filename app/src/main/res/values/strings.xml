@@ -6,7 +6,7 @@
     <!-- Login screen-->
     <string name="login">Login</string>
     <string name="sign_in_with_email">Sign in with email</string>
-    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
     <string name="sign_in_with_facebook">Sign in with Facebook</string>
     <!-- FB app id  -->
     <string name="facebook_app_id">{YOUR_APP_ID}</string><!-- TODO Replace with your app id -->
